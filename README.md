@@ -1,0 +1,1 @@
+Cursor One Dark Theme

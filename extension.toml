@@ -1,0 +1,7 @@
+id = "cursor"
+name = "Cursor"
+version = "0.0.1"
+schema_version = 1
+authors = ["Jenil Desai"]
+description = "Cursor Dark Theme"
+repository = "https://github.com/your-name/my-zed-extension"
