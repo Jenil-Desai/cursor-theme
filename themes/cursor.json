@@ -53,7 +53,7 @@
         "scrollbar.thumb.hover_background": "#3a3a3aff",
         "scrollbar.track.background": "#181818ff",
         "scrollbar.track.border": "#2a2a2aff",
-        "scrollbar_thumb.background": "#3a3a3acc",
+        "scrollbar.thumb.background": "#3a3a3acc",
         "editor.foreground": "#d6d6ddff",
         "editor.background": "#181818ff",
         "editor.gutter.background": "#181818ff",
@@ -293,19 +293,8 @@
             "color": "#87c3ffff",
             "font_weight": 700
           }
-        },
-        "panel.overlay_background": "#141414ff",
-        "panel.overlay_hover": "#181818ff",
-        "minimap.thumb.hover_background": "#3a3a3aff",
-        "minimap.thumb.border": "#00000000",
-        "version_control.added": "#15ac91ff",
-        "version_control.deleted": "#f14c4cff",
-        "version_control.modified": "#228df2ff",
-        "version_control.renamed": "#83d6c5ff",
-        "version_control.conflict": "#e5b95cff"
+        }
       }
     }
-  ],
-  "isUserGenerated": true,
-  "description": "Cursor Dark Theme"
+  ]
 }
