@@ -1,7 +1,7 @@
-id = "cursor"
-name = "Cursor"
+id = "cursor-theme"
+name = "Cursor Theme"
 version = "0.0.1"
 schema_version = 1
 authors = ["Jenil Desai <jenildev91@gmail.com>"]
-description = "Cursor Dark Theme"
-repository = "https://github.com/Jenil-Desai/Zed-Cursor-Theme"
+description = "Cursor One Dark theme for Zed"
+repository = "https://github.com/Jenil-Desai/cursor-theme"
